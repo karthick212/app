@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+  <meta charset="utf-8">
+  <title>Places Search Box</title>
+  <link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
+  <!--banner slider  -->
+  <link href="css/JiSlider.css" rel="stylesheet">
+  <!-- //banner-slider -->
+  <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
+  <link href="css/font-awesome.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+   <link href="css/map_booking.css" rel="stylesheet" type="text/css" media="all" />
+  <style>
+ 
+  </style>
+</head>
+
+<body>
+  <section class="w3layouts-header py-2">
+    <div class="container">
+      <!-- header -->
+      <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-gradient-secondary">
+
+          <h1>
+            <a class="navbar-brand" href="index-2.html">
+              <!--<img src="images/don.png" height="50px" width="40px">-->
+              <span>Do'n'key cargo </span>
+            </a>
+          </h1>
+          <button class="navbar-toggler ml-md-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+            aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-lg-auto text-center">
+              <li class="nav-item active  mr-3">
+                <a class="nav-link" href="index-2.html">Home
+                                        <span class="sr-only">(current)</span>
+                                    </a>
+              </li>
+              <li class="nav-item  mr-3">
+                <a class="nav-link" href="about.html">about</a>
+              </li>
+              <li class="nav-item  mr-3">
+                <a class="nav-link" href="services.html">Services</a>
+              </li>
+              <li class="nav-item dropdown mr-3">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+                  aria-expanded="false">
+                                        Pages
+                                    </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="gallery.html">Gallery</a>
+                  <a class="dropdown-item" href="typo.html">Typography</a>
+
+
+
+                </div>
+              </li>
+              <li class="nav-item mr-3">
+                <a class="nav-link" href="contact.html">contact</a>
+              </li>
+              <li class="nav-item">
+                <i class="fas fa-phone pr-2"></i>CALL US 1-677-124-44227
+              </li>
+            </ul>
+          </div>
+
+        </nav>
+      </header>
+    </div>
+    <!-- //header -->
+    <section class="banner-1">
+    </section>
+    <div class="search_form_wrapper">
+      <div class="container-fluid">
+        <h3 class="tittle-w3ls text-center mb-3">Booking Here</h3>
+        <p class="tit text-center mx-auto">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eum inventore consectetur dolorum, voluptatum possimus
+          temporibus vel ab, nesciunt quod!</p>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-5 ">
+              <div class="card">
+                <div class="card-body">
+                  <form>
+                    <div class="form-group">
+                      <label>Choose Your Location :</label>
+                      <input id="from-input" class=" form-control" type="text" placeholder="from " />
+                      <span id="from_err"></span>
+                    </div>
+                    <div class="form-group">
+                      <label>Choose Your Destination :</label>
+                      <input id="to-input" class=" form-control" type="text" placeholder="to" />
+                      <span id="to_err"></span>
+                    </div>
+                    <button type="button" class="btn btn-default" id="submit" name="button">submit</button>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <h3>Loremoonoi ioewno</h3>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eum inventore consectetur dolorum, voluptatum possimus temporibus
+                vel ab, nesciunt quod!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eum inventore consectetur
+                dolorum, voluptatum possimus temporibus vel ab, nesciunt quod!
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="map_wrapper">
+      <div id="map"></div>
+
+    </div>
+
+
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+    
+      <!-- Modal content -->
+      <div class="modal-content">
+        <div class="mcnt">
+           <h3> 
+          Please Confirm Your Location
+        </h3>
+        <p>
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since
+        </p>
+        <hr/>
+        <button class="btn btn-info" id="closePop">
+          Confirm
+        </button>
+         <button class="btn btn-danger" id="close">
+          Cancel
+        </button>
+        </div>
+      </div>
+     
+    </div>
+  </section>
+  <script src="js/jquery-2.2.3.min.js"></script>
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZsnc36jrvx7sdu0iHfhAbtGGZXFOJ2nA"></script>
+  <script src='http://maps.googleapis.com/maps/api/js?v=3&sensor=false&amp;libraries=places&key=AIzaSyCZsnc36jrvx7sdu0iHfhAbtGGZXFOJ2nA'></script>
+  <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/20625/jquery.geocomplete.min.js"></script>
+  <script src="js/map.js"></script>
+  <script>
+  
+  </script>
+</body>
+
+</html>
