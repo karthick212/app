@@ -85,7 +85,7 @@ input[type="submit"],
 }
 a.navbar-brand {
     text-transform: uppercase;
-    font-size: 0.8em;
+    font-size: 0.7em;
     font-weight: 600;
     letter-spacing: 1px;
     display: initial;
@@ -103,7 +103,7 @@ header h1 a {
 }
 li.nav-item {
 	font-weight: 600;
-	font-size:16px;
+	font-size:18px;
 	color: #000;
 }
 .navbar-light .navbar-nav .nav-link {
@@ -111,7 +111,7 @@ li.nav-item {
     text-transform: capitalize;
     color: #000;
     letter-spacing: 1px;
-    padding: 0 0.5em;
+    padding: 0 0.4em;
 }
 
 .navbar-light .navbar-nav .nav-link:hover,
@@ -120,7 +120,7 @@ li.nav-item {
 .navbar-light .navbar-nav .active>.nav-link,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .nav-link.active {
-	color:#fff;
+	color:#F78536;
 	background:transparent;
 	border-radius: 5px;
 }
@@ -287,8 +287,7 @@ background:#F78536;
 }
 
 .banner-btm {
-
-    margin-top: -27%;
+    margin-top: -35%;
     margin-bottom: 10%;
 }
 
