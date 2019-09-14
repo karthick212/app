@@ -40,7 +40,7 @@
 				<nav class="navbar navbar-expand-lg navbar-light bg-gradient-secondary">
 
 					<h1>
-						<a class="navbar-brand" href="index.html">
+						<a class="navbar-brand" href="index.php">
 							<img src="images/don.png" height="60px" width="70px">
 							<span>Do'n'key cargo </span>
 						</a>

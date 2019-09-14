@@ -6,7 +6,7 @@
 					<h4 class="mt-2">The Safest Distance Between Two Points.</h4>
 				</div>
 				<div class="col-md-4 distance-agile-right">
-					<a href="contact.html">call us 5-367-123-4567</a>
+					<a href="contact.html">call us +91-45-124 51962</a>
 				</div>
 			</div>
 		</div>

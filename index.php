@@ -8,9 +8,8 @@
 					<div class="banner-top banner-top1">
 						<div class="container">
 							<div class="banner-info info2">
-								<h3>Start Moving</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada neque et turpis hendrerit, et porta dui efficitur.
-									Aenean auctor dui sit amet aliquet mollis.</p>
+								<h3>Let’s Get Moving</h3>
+								<p>will handle your treasured items with care throughout any transition.</p>
 							</div>
 						</div>
 					</div>
@@ -21,9 +20,8 @@
 					<div class="banner-top banner-top2">
 						<div class="container">
 							<div class="banner-info bg3 info2">
-								<h3>Start Moving</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada neque et turpis hendrerit, et porta dui efficitur.
-									Aenean auctor dui sit amet aliquet mollis.</p>
+								<h3>Your Shipping Needs. Our Solution</h3>
+								<p>Each of our services can stand alone or be used collectively</p>
 							</div>
 						</div>
 					</div>
@@ -32,9 +30,8 @@
 					<div class="banner-top banner-top3">
 						<div class="container">
 							<div class="banner-info bg3">
-								<h3>Start Moving</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada neque et turpis hendrerit, et porta dui efficitur.
-									Aenean auctor dui sit amet aliquet mollis.</p>
+								<h3>Smooth Shipping</h3>
+								<p>We know that the “smallest thing” is often the most valued and we strive to listen and exceed your expectations.</p>
 							</div>
 						</div>
 					</div>
@@ -101,16 +98,10 @@
 				<div class="row help_full py-sm-4">
 
 					<div class="col-md-6 pt-lg-5 mt-lg-5 banner_bottom_left">
-						<h4>Specialtymoves? We’re a company up to the challenge!</h4>
-						<p class="mb-3">Pellentesque convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla viverra pharetra sem, eget
-							pulvinar neque pharetra ac. Lorem Ipsum convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla
-							viverra pharetra sem, eget pulvinar neque pharetra ac.
-
+						<h4>Specialty moves? We’re a company up to the challenge!</h4>
+						<p class="mb-3">We know that moving is a big deal and we are here to make your move go as efficiently and organized as possible.
 						</p>
-						<p class="mb-3">Pellentesque convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla viverra pharetra sem, eget
-							pulvinar neque pharetra ac. Lorem Ipsum convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla
-							viverra pharetra sem, eget pulvinar neque pharetra ac.
-
+						<p class="mb-3">Tracking is provided, online for all deliveries door to door, even when you choose to use split shipping options our tracking is always complete accurate, detailed and up to date.
 						</p>
 						<div class="ab_button">
 							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="#" role="button" data-toggle="modal" data-target="#myModal">Read More </a>
@@ -256,14 +247,13 @@
 				<div class="modal-body">
 					<div class="agileits-Eswar-info">
 						<img src="images/g1.jpg" class="img-fluid" alt="" />
-						<p>Duis venenatis, turpis eu bibendum porttitor, sapien quam ultricies tellus, ac rhoncus risus odio eget nunc. Pellentesque
-							ac fermentum diam. Integer eu facilisis nunc, a iaculis felis. Pellentesque pellentesque tempor enim, in dapibus turpis
-							porttitor quis. </p>
+						<p>Moving is often difficult, but moving later in life can present its own set of challenges. Our services honor the uniqueness of each individual’s juncture in life by managing the transition in a sensitive, respectful and efficient manner.</p>
+<p>Whether you are moving to another house, apartment, retirement community or assisted living residence, an extra set of hands may be needed…or you may wish to be in the director’s seat and let us handle all of the details.</p>
 					</div>
 				</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-					<button type="button" class="btn btn-primary">Save changes</button>
+					<!-- <button type="button" class="btn btn-primary">Save changes</button> -->
 				</div>
 			</div>
 		</div>
